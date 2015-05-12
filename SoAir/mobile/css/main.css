@@ -104,13 +104,13 @@ nav a:hover {
 
 .form input[type="button" ]{
 	width: auto;
-	color: #f7f7f7;
+	color: #000 ;
 	font-size: 1em;
 }
 
 footer {
 	clear: right;
-}
+}   
 
 .nav_utility ul{
 	width: 100%;
