@@ -80,6 +80,11 @@ nav a:hover {
 	color: #f7f7f7;
 }
 
+nav a:active {
+	background: #666;
+	color: white;
+}
+
 .form
 {	
 	margin: 10px 0;
